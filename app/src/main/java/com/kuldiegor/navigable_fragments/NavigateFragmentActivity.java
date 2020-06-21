@@ -10,6 +10,9 @@ import androidx.fragment.app.FragmentTransaction;
 
 import java.lang.reflect.InvocationTargetException;
 
+/**
+ * Author aeterneus (kuldiegor) github https://github.com/aeterneus/NavigableFragments
+ */
 public abstract class NavigateFragmentActivity extends AppCompatActivity {
     @LayoutRes
     protected int getLayoutResId() {
