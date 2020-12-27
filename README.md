@@ -1,3 +1,5 @@
+# UPDATE: This is old project, new project and updates in https://github.com/kuldiegor/NavigableFragments.
+I move this project in my new github account.
 # NavigableFragments
 Framework, useful to navigate in "single activity pattern"
 
